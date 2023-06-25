@@ -7,4 +7,6 @@ def main(s):
         str: answer
     """
 
-    return
+    return s.lower()
+s = "GOOGLE IS A SEARCH CODE"
+print(main(s))
